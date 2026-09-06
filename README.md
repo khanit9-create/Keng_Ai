@@ -1,20 +1,14 @@
 # Keng_Ai
 
-เว็บไซต์ตัวอย่างสำหรับ project site บน GitHub Pages
+Dark Tech demo site for Keng_Ai project (GitHub Pages)
 
-รายละเอียด:
+- Theme: Dark Tech
+- CSS: Tailwind via CDN
+- Menu: Home, Projects, Contact
+- Contact: mailto:hello@example.com (placeholder — change in index.html)
 
-- รีโป: `khanit9-create/Keng_Ai`
-- ประเภท: Project site (URL: https://khanit9-create.github.io/Keng_Ai)
-- ไฟล์เริ่มต้น: `index.html`
-
-วิธีแก้ไข:
-
-1. แก้ไฟล์ในรีโปนี้ (เช่น `index.html`) แล้ว commit + push
-2. รอไม่กี่นาทีเพื่อให้ GitHub Pages อัปเดต
-
-ถ้าต้องการให้ผมช่วยต่อ เช่น เพิ่มธีม Jekyll, ตั้งค่าโดเมนเอง, หรือสร้างหน้าเพิ่มเติม บอกความต้องการมาได้เลย.
+Preview: https://khanit9-create.github.io/Keng_Ai (may take a few minutes to update)
 
 ---
 
-Created by GitHub Copilot Chat Assistant for user khanit9-create.
+If you want changes (colors, logo, real contact email, add projects), tell me and I'll update.
